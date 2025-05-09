@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Stefan-Alexandru Onofrei!
 
 🎓 I'm a curious and passionate developer who enjoys building smart, efficient, and sometimes quirky things—whether it's sorting algorithms, garden management apps, or EMF detectors!
 
