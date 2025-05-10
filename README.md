@@ -43,7 +43,7 @@
 ## 📫 Let's Connect
 
 - GitHub: [github.com/sao2004](https://github.com/sao2004)
-- Email: [alex.onofrei04@gmail.com]
+- Email: alex.onofrei04@gmail.com
 
 ---
 
